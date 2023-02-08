@@ -31,3 +31,11 @@ ul > li:first-child::first-letter {
 a[href="https://bcit.ca"] {
     background-color: yellow;
 }
+
+img {
+    float: left;
+}
+
+.below {
+    clear: both;
+}
