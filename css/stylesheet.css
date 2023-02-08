@@ -11,3 +11,14 @@ h2 + p {
         border-bottom: 1px grey solid;
 }
 
+ul a:link {
+    color: green;
+}
+
+ul a:visited {
+    color: red;
+}
+
+ul a:hover {
+    color: pink;
+}
